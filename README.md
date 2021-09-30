@@ -1,4 +1,6 @@
 # Blizzard-Account-Generator
+IT SEEMS THAT THE SCRIPT DOESN'T WORK IF YOUR IP ADDRESS IS IN THE UNITED STATES SO USE EUROPEAN VPN / IP ADDRESS
+
 MADE BY FetaaWSB#8575 on discord
 Special thanks to Frosteh for having a leaked source where I could copy sms verify thing
 
