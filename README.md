@@ -23,3 +23,5 @@ glhf. Any questions? --> FetaaWSB#8575
 MOST IMPORTANT NOTE: BECAUSE I AM STUPID AND LAZY AND NEW TO PYTHON
 put "pythongen" folder in your C: drive so It's as "C:\pythongen"
 otherwise you get error ok cool
+
+Also make sure your discord webhook is as: https://discord.com and not discordapp.com
